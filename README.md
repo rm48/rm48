@@ -2,7 +2,7 @@
 
 
 ##  🔭 Sobre mim:
-Por meio da iniciativa Potencia Tech, da Ifood, em parceria com a escola [Cubos Academy](https://cubos.academy/), venho cursando **Desenvolvimento de Software com Foco em Back-End**, aprimorando meus conhecimentos em Node.js, Javascript, PostgreSQL e versionamento de códigos.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela Estácio. Atualmento venho aprimorando meus conhecimentos tanto em Backend como em Frontend.
 
 ##  👯 Hard-skills:
  ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
